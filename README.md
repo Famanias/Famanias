@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Famanias
-- 👀 I’m interested in computer
 - 🌱 I’m currently learning the basics of computer science
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me: you can add me on discord : Famanias#9354
