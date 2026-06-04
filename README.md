@@ -1,1 +1,1 @@
-- 🌱 I’m currently learning the basics of computer science
+vibecodemaxxing
