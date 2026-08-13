@@ -1,13 +1,10 @@
-<table style="width: 100%;">
-  <tr>
-    <td valign="top">
-<pre style="white-space: nowrap; overflow-x: auto; font-size: 0.45em;">                                                                                                      
- .........-#############################++++#+++#++       
+```
+ .........-#############################++++#+++#++          Famanias Likes to code.       
  ........###############################+++-++---++
- ......#########################+..-#######+------+
+ ......#########################+..-#######+------+          AI  |  Web Development  |  UX/UI  |  Automation
  ...-############++#######+#################+++++++
- .+########+#++++++####-.       .+##########+++++++     
- ###########++-.-+#+###-++-.       ###########+++++          
+ .+########+#++++++####-.       .+##########+++++++          hmu if you wanna collab on a project.     
+ ###########++-.-+#+###-++-.       ###########+++++
  ########++##########--##+         ###############+          
  ########++++##+++###-.+#+       +#################          
  #######+#######+--..+#+-. . .-#################+++          
@@ -34,14 +31,5 @@
  -+++-+++#############################++-+##++#####    
  ++++++###############++-+#############+--++-+#####
  --+++####################+++-+####################
-                                                                                              
-</pre>
-    </td>
-    <td valign="top">
-      <h3>Famanias likes to code.</h3>
-      <p><code>AI</code> <code>Web Development</code> <code>UX/UI</code> <code>Automation</code></p>
-      <p>hmu if you wanna collab on a project.</p>
-      <p><a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a></p>
-    </td>
-  </tr>
-</table>
+```
+<p><a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a></p>
