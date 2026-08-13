@@ -1,4 +1,7 @@
-<pre style="white-space: pre-wrap; overflow-x: auto;">                                                                                                      
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td valign="top" width="50%">
+<pre style="white-space: pre-wrap;">                                                                                                      
  .........-#############################++++#+++#++       
  ........###############################+++-++---++
  ......#########################+..-#######+------+
@@ -33,11 +36,12 @@
  --+++####################+++-+####################
                                                                                               
 </pre>
-
-### Famanias likes to code.
-
-`AI` `Web Development` `UX/UI` `Automation` 
-
-hmu if you wanna collab on a project.
-
-[![GitHub Streak](./profile/streak.svg)](https://git.io/streak-stats)
+    </td>
+    <td valign="top" width="50%">
+      <h3>Famanias likes to code.</h3>
+      <p><code>AI</code> <code>Web Development</code> <code>UX/UI</code> <code>Automation</code></p>
+      <p>hmu if you wanna collab on a project.</p>
+      <p><a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a></p>
+    </td>
+  </tr>
+</table>
