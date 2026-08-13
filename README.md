@@ -1,7 +1,7 @@
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%;">
   <tr>
-    <td valign="top" width="25%">
-<pre>                                                                                                      
+    <td valign="top">
+<pre style="white-space: nowrap; overflow-x: auto; font-size: 0.45em;">                                                                                                      
  .........-#############################++++#+++#++       
  ........###############################+++-++---++
  ......#########################+..-#######+------+
@@ -37,7 +37,7 @@
                                                                                               
 </pre>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       <h3>Famanias likes to code.</h3>
       <p><code>AI</code> <code>Web Development</code> <code>UX/UI</code> <code>Automation</code></p>
       <p>hmu if you wanna collab on a project.</p>
