@@ -1,6 +1,6 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
 <pre style="white-space: pre-wrap;">                                                                                                      
  .........-#############################++++#+++#++       
  ........###############################+++-++---++
