@@ -4,4 +4,4 @@ Famanias likes to code.
 
 ### hmu if you wanna collab on a project.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Famanias)](https://git.io/streak-stats)
+[![GitHub Streak](./profile/streak.svg)](https://git.io/streak-stats)
